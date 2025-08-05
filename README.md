@@ -13,10 +13,6 @@ I specialize in building seamless digital experiences using **HTML, CSS, JavaScr
 - **Frameworks:** React  
 - **Tools:** Git, GitHub, Figma, VS Code  
 
-### Contacts
-- [LinkedIn](https://www.linkedin.com/in/mclinty/)  
-- [GitHub](https://github.com/hellstumy)  
-- [Email](mailto:e.one1604w@gmail.com)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jmclin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mclinty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:e.one1604w@gmail.com) 
